@@ -1,11 +1,12 @@
-# 2048
+# 2048 game
 
-![Screenshot](screenshot.jpg?raw=true)
+![Screenshot](screenshot.png?raw=true)
 
 Another implementation of 2048 game written in Ruby.
+
 It uses `curses` for state-of-art console interface.
 
-### Installation & running
+Installation & running:
 
 ```
 bundle install
